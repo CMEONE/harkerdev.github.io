@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harker Development Team on Harker Dev</title>
-    <link>harkerdev.github.io/</link>
+    <link>/</link>
     <description>Recent content in Harker Development Team on Harker Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="harkerdev.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bell Schedule</title>
-      <link>harkerdev.github.io/projects/bellschedule/</link>
+      <link>/projects/bellschedule/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>harkerdev.github.io/projects/bellschedule/</guid>
+      <guid>/projects/bellschedule/</guid>
       <description>One of our founding projects A bell schedule application students to check the schedule. Can be found on the web at tiny.cc/hsbell, or the Apple App Store at tiny.cc/hsbell-ios.</description>
     </item>
     
     <item>
       <title>Course Planner</title>
-      <link>harkerdev.github.io/projects/courseplanner/</link>
+      <link>/projects/courseplanner/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>harkerdev.github.io/projects/courseplanner/</guid>
+      <guid>/projects/courseplanner/</guid>
       <description>Looking to our future Course planning software for students to lay out their classes for their high school career.</description>
     </item>
     
     <item>
       <title>GPA Calculator</title>
-      <link>harkerdev.github.io/projects/gpa/</link>
+      <link>/projects/gpa/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>harkerdev.github.io/projects/gpa/</guid>
+      <guid>/projects/gpa/</guid>
       <description>Warning: can be addictive An application for students to calculate their GPA. Can be found on the web at http://tiny.cc/gpa.</description>
     </item>
     
     <item>
       <title>Harker Lunch</title>
-      <link>harkerdev.github.io/projects/lunchmenu/</link>
+      <link>/projects/lunchmenu/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>harkerdev.github.io/projects/lunchmenu/</guid>
+      <guid>/projects/lunchmenu/</guid>
       <description>We know you can&amp;rsquo;t wait for lunch An application for students to check what&amp;rsquo;s for lunch. Can be found on the web at tiny.cc/lunchmenu, or the Apple App Store at tiny.cc/lunchmenu-ios.</description>
     </item>
     
     <item>
       <title>Harker Pay</title>
-      <link>harkerdev.github.io/projects/harkerpay/</link>
+      <link>/projects/harkerpay/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>harkerdev.github.io/projects/harkerpay/</guid>
+      <guid>/projects/harkerpay/</guid>
       <description>An proprietary platform to support school transactions Payment software that allows students to make purchases around campus.</description>
     </item>
     
     <item>
       <title>Join Harker Dev</title>
-      <link>harkerdev.github.io/join/</link>
+      <link>/join/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>harkerdev.github.io/join/</guid>
+      <guid>/join/</guid>
       <description>Our team is looking to grow. Ready for a challenge? Our team loves to tackle problems head on and we love working late nights to create amazing applications. We work with large amounts of code and important projects, so make sure you have the time to be able to commit (ha - get it).
 No experience? No problem. We all start somewhere — we love to help mentor students who are passionate about learning and exploring what computer science can offer for their community.</description>
     </item>
