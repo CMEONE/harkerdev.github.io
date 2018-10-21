@@ -55,15 +55,19 @@
 
 </div>
 
-    <h1 class="animated flipInX"><a href="https://harkerdev.github.io/projects/harkerpay/">Harker Pay</a></h1>
+    <h1 class="animated flipInX"><a href="https://harkerdev.github.io/draft-frontend/reference-partial-page/">Referencing a Partial Page</a></h1>
     <br>
-    
+    <p>To reference the partial page <code>views/partials/some-partial.ejs</code> from a page in <code>views/pages</code> in ejs, use the <code>include</code> function as so:</p>
 
-<h2 id="an-proprietary-platform-to-support-school-transactions">An proprietary platform to support school transactions</h2>
+<div class="highlight"><pre class="chroma"><code class="language-html" data-lang="html"><span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span> Here is some HTML <span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+<span class="err">&lt;</span>%- include(&#39;../partials/some-partial.ejs&#39;) %&gt;
+<span class="p">&lt;</span><span class="nt">p</span><span class="p">&gt;</span> Here is some HTML <span class="p">&lt;/</span><span class="nt">p</span><span class="p">&gt;</span></code></pre></div>
 
-<p>Payment software that allows students to make purchases around campus.</p>
+<p>This will replace <code>&lt;%- include('../partials/some-partial.ejs') %&gt;</code> with whatever code is in <code>views/partials/some-partial.ejs</code>.</p>
 
-<p><img width="708" alt="pay" src="https://user-images.githubusercontent.com/7104017/45922552-93dd6f00-be94-11e8-8d8d-706254414297.png"></p>
+<p>For more information on working with <code>ejs</code>, <a href="http://ejs.co/">click here</a>.</p>
+
+<p>For information on what the various distributed partials do, [[view this tutorial|<a href="https://github.com/DJMcoder/HarkerDevGuides/wiki/Using-the-Various-Partials]">https://github.com/DJMcoder/HarkerDevGuides/wiki/Using-the-Various-Partials]</a>].</p>
 
 
 

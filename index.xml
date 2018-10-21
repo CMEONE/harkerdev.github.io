@@ -12,11 +12,20 @@
     
     
     <item>
+      <title>GitHub Contributions</title>
+      <link>https://harkerdev.github.io/draft-org/git/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://harkerdev.github.io/draft-org/git/</guid>
+      <description>GitHub All of our open-source development is on GitHub, where contricutors can suggest new features, report bugs, and also contribute to our code base. This guide serves as a guideline to interacting with our GitHub organization.</description>
+    </item>
+    
+    <item>
       <title>Access MongoDB with MongoDB Compass</title>
-      <link>https://harkerdev.github.io/backend/mongodb-access-with-compass/</link>
+      <link>https://harkerdev.github.io/draft-backend/mongodb-access-with-compass/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/backend/mongodb-access-with-compass/</guid>
+      <guid>https://harkerdev.github.io/draft-backend/mongodb-access-with-compass/</guid>
       <description>HarkerDev projects often (if not always) use MongoDB as the main database system. This guide will explain how to use MongoDB&amp;rsquo;s GUI to access the database directly.
 Installing MongoDB Compass MongoDB First, make sure that mongodb is installed and running mongod on the device you wish to connect to. This setup is detailed in our guide on [[Setting Up a Server|https://harkerdev.github.io/backend/setting-up-a-server]].
 Compass Then, [[install MongoDB Compass|https://www.mongodb.com/download-center?filter=enterprise#compass]] on the device you are using to connect.</description>
@@ -24,10 +33,10 @@ Compass Then, [[install MongoDB Compass|https://www.mongodb.com/download-center?
     
     <item>
       <title>Adding a New Page to a Project</title>
-      <link>https://harkerdev.github.io/frontend/add-page/</link>
+      <link>https://harkerdev.github.io/draft-frontend/add-page/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/frontend/add-page/</guid>
+      <guid>https://harkerdev.github.io/draft-frontend/add-page/</guid>
       <description>This tutorial will guide you on how to add a new page to a node.js website.
 Creating the page Adding the head First, add the following code to the top of your page:
 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;#34;en-US&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;%- include(&amp;#39;../partials/head.ejs&amp;#39;) %&amp;gt; &amp;lt;title&amp;gt; Title &amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; If you want to add in a stylesheet, favicon, or &amp;lt;meta&amp;gt; tag, you would put it here in between the &amp;lt;head&amp;gt;&amp;lt;/head&amp;gt; tags.
@@ -36,20 +45,20 @@ Referencing Partials For information on how to reference a partial, [[view this 
     
     <item>
       <title>Developing a Project</title>
-      <link>https://harkerdev.github.io/org/creating-mainting-project/</link>
+      <link>https://harkerdev.github.io/draft-org/creating-mainting-project/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/org/creating-mainting-project/</guid>
+      <guid>https://harkerdev.github.io/draft-org/creating-mainting-project/</guid>
       <description>Creating a HarkerDev project requires more than simply writing the code. This tutorial summarizes the steps to fully creating a official, Harker-recognized HarkerDev project.
 Phase 1: Authorization Step 1: Define Project Function Once the Administration approves the idea of the project, the function of the project must be clearly defined. The idea of a project is different from its defined function. For example, the function of the Course Planner project was streamlining the course planning process.</description>
     </item>
     
     <item>
       <title>Populate Database w/ Test Files</title>
-      <link>https://harkerdev.github.io/backend/test-files-database/</link>
+      <link>https://harkerdev.github.io/draft-backend/test-files-database/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/backend/test-files-database/</guid>
+      <guid>https://harkerdev.github.io/draft-backend/test-files-database/</guid>
       <description>Testing often requires a populated database to work with. This tutorial explains how to write a write scripts which populate the database with test documents specified in files you will create.
 Setup Make sure that MongoDB is set up and mongod is running. Review the structure of your collections. For this tutorial, we will be using users as our example, with the following schema:
 const mongoose = require(&amp;#39;../db&amp;#39;); // Format of the mongoDB collection const userSchema = mongoose.</description>
@@ -57,10 +66,10 @@ const mongoose = require(&amp;#39;../db&amp;#39;); // Format of the mongoDB coll
     
     <item>
       <title>Referencing a Partial Page</title>
-      <link>https://harkerdev.github.io/frontend/reference-partial-page/</link>
+      <link>https://harkerdev.github.io/draft-frontend/reference-partial-page/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/frontend/reference-partial-page/</guid>
+      <guid>https://harkerdev.github.io/draft-frontend/reference-partial-page/</guid>
       <description>To reference the partial page views/partials/some-partial.ejs from a page in views/pages in ejs, use the include function as so:
 &amp;lt;p&amp;gt; Here is some HTML &amp;lt;/p&amp;gt; &amp;lt;%- include(&amp;#39;../partials/some-partial.ejs&amp;#39;) %&amp;gt; &amp;lt;p&amp;gt; Here is some HTML &amp;lt;/p&amp;gt; This will replace &amp;lt;%- include(&#39;../partials/some-partial.ejs&#39;) %&amp;gt; with whatever code is in views/partials/some-partial.ejs.
 For more information on working with ejs, click here.
@@ -69,20 +78,20 @@ For information on what the various distributed partials do, [[view this tutoria
     
     <item>
       <title>Setting Up A Server</title>
-      <link>https://harkerdev.github.io/backend/setting-up-a-server/</link>
+      <link>https://harkerdev.github.io/draft-backend/setting-up-a-server/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/backend/setting-up-a-server/</guid>
+      <guid>https://harkerdev.github.io/draft-backend/setting-up-a-server/</guid>
       <description>You&amp;rsquo;ll be writing code for two different environments: development and production. The production environment is the server. The stuff on it should be free of errors, and ideally you don&amp;rsquo;t want to be testing anything in production. The development environment is what you run on your machine. You should ideally test your changes in your development environment before deploying them to production.
 Development Because you&amp;rsquo;ll be the only one testing the application locally on your computer (or maybe somehow you could involve a few others), it is enough to only utilize one core of your machine and not worry about the application&amp;rsquo;s response to load.</description>
     </item>
     
     <item>
       <title>Front End Dev Practices</title>
-      <link>https://harkerdev.github.io/frontend/frontend-dev/</link>
+      <link>https://harkerdev.github.io/draft-frontend/frontend-dev/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/frontend/frontend-dev/</guid>
+      <guid>https://harkerdev.github.io/draft-frontend/frontend-dev/</guid>
       <description>Placement and External Referencing Front-end development takes place solely in the views and static folders.
 Views In views, there should be two subfolders: pages and partials. pages should only store .ejs files that are not going to be included in other pages. partials should only store .ejs files that are going to be reused in files in the pages folder.
 Static In static, there may be many folders, including css, js, img, fonts, and so on.</description>
@@ -90,10 +99,10 @@ Static In static, there may be many folders, including css, js, img, fonts, and 
     
     <item>
       <title>MongoDB Backup</title>
-      <link>https://harkerdev.github.io/backend/mongodb-backup/</link>
+      <link>https://harkerdev.github.io/draft-backend/mongodb-backup/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://harkerdev.github.io/backend/mongodb-backup/</guid>
+      <guid>https://harkerdev.github.io/draft-backend/mongodb-backup/</guid>
       <description>The more backups there are, the better. Thankfully, because of GitHub, we have multiple backups of the code in addition to the code on the server and on our own computers. However, MongoDB needs more work to set up for backups. This tutorial will guide you on how to make a backup procedure for MongoDB.
 Local Backup A local backup is helpful because data can become corrupted or maliciously manipulated while in production.</description>
     </item>
@@ -151,15 +160,6 @@ Local Backup A local backup is helpful because data can become corrupted or mali
       <guid>https://harkerdev.github.io/join/</guid>
       <description>Our team is looking to grow. Ready for a challenge? Our team loves to tackle problems head on and we love working late nights to create amazing applications. We work with large amounts of code and important projects, so make sure you have the time to be able to commit (ha - get it).
 No experience? No problem. We all start somewhere — we love to help mentor students who are passionate about learning and exploring what computer science can offer for their community.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://harkerdev.github.io/org/git/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://harkerdev.github.io/org/git/</guid>
-      <description></description>
     </item>
     
   </channel>

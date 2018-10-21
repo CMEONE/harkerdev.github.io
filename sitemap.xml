@@ -3,42 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://harkerdev.github.io/backend/mongodb-access-with-compass/</loc>
+    <loc>https://harkerdev.github.io/draft-org/git/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harkerdev.github.io/draft-backend/mongodb-access-with-compass/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/frontend/add-page/</loc>
+    <loc>https://harkerdev.github.io/draft-frontend/add-page/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/org/creating-mainting-project/</loc>
+    <loc>https://harkerdev.github.io/draft-org/creating-mainting-project/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/backend/test-files-database/</loc>
+    <loc>https://harkerdev.github.io/draft-backend/test-files-database/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/frontend/reference-partial-page/</loc>
+    <loc>https://harkerdev.github.io/draft-frontend/reference-partial-page/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/backend/setting-up-a-server/</loc>
+    <loc>https://harkerdev.github.io/draft-backend/setting-up-a-server/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/frontend/frontend-dev/</loc>
+    <loc>https://harkerdev.github.io/draft-frontend/frontend-dev/</loc>
     <lastmod>2018-09-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/backend/mongodb-backup/</loc>
+    <loc>https://harkerdev.github.io/draft-backend/mongodb-backup/</loc>
     <lastmod>2018-09-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,29 +83,25 @@
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/org/git/</loc>
-  </url>
-  
-  <url>
-    <loc>https://harkerdev.github.io/backend/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://harkerdev.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/frontend/</loc>
+    <loc>https://harkerdev.github.io/draft-backend/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://harkerdev.github.io/org/</loc>
+    <loc>https://harkerdev.github.io/draft-frontend/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://harkerdev.github.io/draft-org/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
