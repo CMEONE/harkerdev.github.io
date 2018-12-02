@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Harker Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://harkerdev.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Bell Schedule</title>
       <link>https://harkerdev.github.io/projects/bellschedule/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://harkerdev.github.io/projects/bellschedule/</guid>
       <description>One of our founding projects A bell schedule application students to check the schedule. Can be found on the web at tiny.cc/hsbell, or the Apple App Store at tiny.cc/hsbell-ios.</description>
